@@ -366,7 +366,7 @@ section{
 }
 
 .about .row .progress .bar-1-1 span{
-    width: 90%;
+    width: 80%;
 }
 
 .about .row .progress .bar-1-2 span{
@@ -378,15 +378,15 @@ section{
 }
 
 .about .row .progress .bar-2-1 span{
-    width: 90%;
+    width: 95%;
 }
 
 .about .row .progress .bar-2-2 span{
-    width: 70%;
+    width: 80%;
 }
 
 .about .row .progress .bar-2-3 span{
-    width: 75%;
+    width: 40%;
 }
 
 .services .box-container{
@@ -488,7 +488,8 @@ section{
 }
 
 .portfolio .box-container .box .content h3{
-    padding-top: 3rem;
+    padding-top: 5rem;
+    text-align: center;
     font-size: 2rem;
     color: var(--black);
     text-transform: uppercase;
